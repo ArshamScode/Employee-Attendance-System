@@ -1,0 +1,22 @@
+EMPLOYEE ATTENDANCE SYSTEM — PROJECT-SPECIFIC LICENSE NOTICE
+Copyright (c) 2026 Arsham Sarmast. All rights reserved.
+
+This notice applies to the original project code and materials in this repository, except for third-party components that are identified separately and remain subject to their own licenses.
+
+1. PUBLICATION AND REVIEW
+The repository may be publicly visible for portfolio review. Public visibility does not, by itself, grant permission to copy, modify, publish, sublicense, or redistribute the original project code or package it into another product.
+
+2. LIMITED DEMONSTRATION USE
+The author may separately grant written permission for specific evaluation or internal demonstration use. Unless such permission is granted, no additional rights are granted by this notice.
+
+3. RESTRICTIONS
+You may not remove or alter copyright or proprietary notices. No permission is granted to use this project to process personal, employee, or biometric data in production.
+
+4. THIRD-PARTY SOFTWARE
+Qt, OpenCV, SQLite, Qt plugins, and other third-party components are not relicensed by this notice. Their respective license terms apply. See THIRD_PARTY_NOTICES.md and the licenses distributed with the exact binaries.
+
+5. NO WARRANTY
+THE ORIGINAL PROJECT MATERIALS ARE PROVIDED "AS IS", WITHOUT EXPRESS OR IMPLIED WARRANTY, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, LOSS, OR OTHER LIABILITY ARISING FROM USE OF THE PROJECT.
+
+6. NOT AN OPEN-SOURCE LICENSE
+This is a project-specific rights notice, not an OSI-approved open-source license. If you intend to publish this project under an open-source license, replace this notice only after confirming that you have the rights to license all original materials and that third-party obligations are satisfied.
