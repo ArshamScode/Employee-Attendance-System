@@ -1,3 +1,6 @@
+**Language:**
+English | [فارسی](README.fa.md) | [العربية](README.ar.md) | [简体中文](README.zh-CN.md)
+
 # Installer Documentation
 
 This directory contains the Inno Setup script and supporting documentation used to build the Windows installer for the **Employee Attendance System**.
