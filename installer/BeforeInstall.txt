@@ -1,0 +1,24 @@
+EMPLOYEE ATTENDANCE SYSTEM - PRE-INSTALLATION NOTES
+
+Welcome to the Employee Attendance System Setup.
+
+Before proceeding with the installation, please ensure your system meets these requirements:
+
+SYSTEM REQUIREMENTS:
+- Operating System: Windows 10 / Windows 11 (64-bit)
+- RAM: Minimum 4 GB (8 GB recommended)
+- Disk Space: 200 MB of free space
+- Camera: A standard USB Webcam or built-in laptop camera
+
+IMPORTANT PREPARATION STEPS:
+1. CONNECT YOUR CAMERA: Please ensure your attendance camera is plugged in and working BEFORE starting the application for the first time.
+2. ADMINISTRATOR RIGHTS: You must have administrator rights on this computer to install the software.
+3. ANTIVIRUS: If prompted by Windows Defender or your Antivirus, please allow the installation. The software uses the camera, which may trigger a security alert.
+
+WHAT THIS INSTALLER WILL DO:
+- Install the Attendance System application.
+- Install required visual components (OpenCV).
+- Create a desktop shortcut for easy access.
+- Create a folder in your Documents to store the database and face photos.
+
+Click "Next" to continue with the installation.

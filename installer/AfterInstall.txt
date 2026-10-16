@@ -1,0 +1,22 @@
+EMPLOYEE ATTENDANCE SYSTEM - SETUP COMPLETE!
+
+Installation was successful. A shortcut has been created on your Desktop.
+
+HOW TO GET STARTED:
+1. LAUNCH: Double-click the "Employee Attendance System" icon on your desktop.
+2. FIRST TIME RUN: Windows may ask for permission to access your camera. Click "Allow".
+3. ADD EMPLOYEES: 
+   - Click the "Employees" tab (Default username: AS_admin, Default password: AS_P@ssword-Emp)
+   - Click "Add", enter employee details, and take a photo.
+   - Repeat for all employees.
+4. TRAIN THE SYSTEM: 
+   - On the main "Attendance" page, click the "Train Model" button.
+   - The system will learn the faces of all added employees.
+5. START SCANNING: 
+   - Employees can now stand in front of the camera to automatically log their Entry and Exit times.
+
+NEED HELP?
+- View the Records tab to see attendance logs and overtime calculations (Default username: AS_admin, Default password: AS_P@ssword-Rec).
+- Go to File > Settings to change work hours (Default username: AS_admin, Default password: AS_P@ssword-Sett).
+
+Thank you for using the Employee Attendance System!

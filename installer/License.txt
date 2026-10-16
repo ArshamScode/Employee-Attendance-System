@@ -1,0 +1,25 @@
+EMPLOYEE ATTENDANCE SYSTEM - END USER LICENSE AGREEMENT
+
+IMPORTANT - PLEASE READ CAREFULLY: By installing this software, you agree to be bound by the terms of this license.
+
+1. LICENSE GRANT
+This application is provided to you free of charge for internal company use. You may install and use the software on any number of computers within your organization.
+
+2. OPEN SOURCE COMPONENTS
+This software utilizes the following open-source libraries:
+- Qt Framework (LGPL v3)
+- OpenCV (Apache 2.0 License)
+- SQLite
+These libraries are copyright of their respective owners. 
+
+3. RESTRICTIONS
+You may not reverse engineer, decompile, or disassemble the software. You may not remove or alter any proprietary notices in the software.
+
+4. PRIVACY & DATA
+This software processes facial recognition data locally on your device. No images or attendance data are sent to external servers. It is the responsibility of the installer to comply with local labor and privacy laws regarding biometric data storage.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE DEVELOPER ASSUMES NO LIABILITY FOR DATA LOSS, HARDWARE FAILURE, OR MISRECORDED ATTENDANCE.
+
+6. TERMINATION
+You may terminate this agreement by destroying all copies of the software.
